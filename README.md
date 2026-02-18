@@ -9,7 +9,6 @@ AI-powered feedback application with Flask backend, React frontend, and sentimen
 - ✅ Feedback Submission with Ratings (1-5) and Comments
 - ✅ AI Sentiment Analysis (Positive/Negative/Neutral)
 - ✅ Admin Dashboard with Statistics
-- ✅ Feedback Filtering and Search
 - ✅ Responsive Design
 
 ## Tech Stack
